@@ -1,0 +1,21 @@
+class Solution {
+    public List<Integer> leaders(int[] nums) {
+        Stack<Integer> st=new Stack<>();
+        List<Integer> list=new ArrayList<>();
+        int n=nums.length;
+        int left=n-1;
+        int max=Integer.MIN_VALUE;
+        while(left>=0){
+            if(nums[left]>max){
+                max=nums[left];
+                st.push(max);
+            }
+                left--;
+            
+        }
+            while (!st.isEmpty()) {
+            list.add(st.pop());
+        }
+        return list;
+    }
+}
