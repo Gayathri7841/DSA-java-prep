@@ -1,0 +1,26 @@
+class Solution {
+    public int[] limitOccurrences(int[] nums, int k) {
+        int left=0;
+        int right=0;
+        int count=0;
+        int arr[]=new int[nums.length];
+        int index=0;
+        while(right<nums.length){
+            if(nums[left]==nums[right]){
+                count++;
+                if(count<=k){
+                    arr[index++]=nums[right];
+                }
+                right++;
+            }
+            else{
+                left=right;
+                count=1;
+                arr[index++]=nums[right];
+                right++;
+            }
+        }
+        return Arrays.copyOf(arr,index);
+    }
+    
+}
