@@ -11,3 +11,8 @@ class Solution {
 Arrays.sort(nums1);
     }
 }
+
+
+
+time complexity- o(m+n log(m+n))
+space complexity-o(1)
