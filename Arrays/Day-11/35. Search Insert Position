@@ -1,0 +1,21 @@
+class Solution {
+    public int searchInsert(int[] nums, int target) {
+        int n=nums.length;
+   int res= binary(nums,target,0,n-1 );
+   return res;
+    }
+
+    public int binary(int nums[],int target,int low,int high){
+            if(low>high){
+              return low;
+            }
+            int mid=(low+high)/2;
+            if(target==nums[mid]){
+                return mid;
+            }else if(target<nums[mid]){
+               return  binary(nums,target,low,mid-1);
+            }else{
+             return   binary(nums,target,mid+1,high);
+            }
+        }
+}
