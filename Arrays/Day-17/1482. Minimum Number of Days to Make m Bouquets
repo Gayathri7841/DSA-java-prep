@@ -1,0 +1,52 @@
+class Solution {
+    public int minDays(int[] bloomDay, int m, int k) {
+          if ((long) m * k > bloomDay.length) {
+            return -1;
+        }
+        int left=getMin(bloomDay);
+        int right=getMax(bloomDay);
+        int ans=-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            boolean check=fn(bloomDay,mid,m,k);
+            if(check==true){
+                ans=mid;
+                right=mid-1;
+            }else{
+                left=mid+1;
+            }
+        }
+        return ans;
+    }
+    public boolean fn(int arr[],int day,int m,int k){
+      int bouquets = 0;
+     
+        int count=0;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]<=day){
+                count++;
+            }else{
+                 bouquets+=count/k;
+               
+                count=0;
+            }
+        }
+        bouquets += count / k;
+
+        return bouquets >= m;
+    }
+    public int getMax(int arr[]){
+        int max=Integer.MIN_VALUE;
+        for(int i=0;i<arr.length;i++){
+            max=Math.max(max,arr[i]);
+        }
+        return max;
+    }
+     public int getMin(int arr[]){
+        int min=Integer.MAX_VALUE;
+        for(int i=0;i<arr.length;i++){
+            min=Math.min(min,arr[i]);
+        }
+        return min;
+    }
+}
