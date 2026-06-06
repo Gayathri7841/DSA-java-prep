@@ -1,0 +1,48 @@
+class Solution {
+    public int shipWithinDays(int[] weights, int days) {
+        int ans=-1;
+         int left=getMax(weights);
+         int right=getTotal(weights);
+         while(left<=right){
+            int mid=left+(right-left)/2;
+            boolean b=isPossible( mid,weights, days);
+            if(b){
+                ans=mid;
+                right=mid-1;
+            }else{
+                left=mid+1;
+            }
+         }
+         return ans;
+    }
+    public boolean isPossible(int mid,int nums[],int days){
+        int load=0;
+        int day=1;
+        for(int i=0;i<nums.length;i++){
+           
+            if(load+nums[i]<=mid){
+ load=load+nums[i];
+            }else{
+                load=nums[i];
+                day++;
+            }
+
+        }
+       return day<=days;
+    }
+    public int getTotal(int piles[]){
+        int total=0;
+        for(int i=0;i<piles.length;i++){
+          
+total=total+piles[i];
+        }
+        return total;
+    }
+ public int getMax(int nums[]){
+         int max=Integer.MIN_VALUE;
+        for(int i=0;i<nums.length;i++){
+            max=Math.max(max,nums[i]);
+        }
+        return max;
+    }
+}
