@@ -1,0 +1,30 @@
+class Solution {
+    public List<String> generateValidStrings(int n, int k) {
+        List<String> ans=new ArrayList<>();
+        List<Integer> list=new ArrayList<>();
+        fn(list,n,k,0,ans);
+        return ans;
+    }
+    public void fn(List<Integer> list,int n,int k,int cost, List<String> ans){
+        if(cost>k){
+            return;
+        }
+        if(list.size()==n){
+            StringBuilder sb=new StringBuilder();
+            for(int c:list){
+                sb.append(c);
+            }
+            ans.add(sb.toString());
+            return;
+        }
+int index=list.size();
+        list.add(0);
+        fn(list,n,k,cost,ans);
+        list.remove(list.size()-1);
+        if(list.isEmpty()||list.get(list.size()-1)!=1){
+            list.add(1);
+            fn(list,n,k,cost+index,ans);
+            list.remove(list.size()-1);
+        }
+    }
+}©leetcode
