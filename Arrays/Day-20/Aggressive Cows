@@ -1,0 +1,35 @@
+class Solution {
+    public int aggressiveCows(int[] nums, int k) {
+   Arrays.sort(nums);
+   int ans=0;
+   int low=1;
+   int n=nums.length;
+   int high=nums[n-1]-nums[0];
+   while(low<=high){
+    int mid=low+(high-low)/2;
+    if(fn(nums,mid,k)){
+ans=mid;
+low=mid+1;
+    }else{
+        high=mid-1;
+    }
+   }
+   return ans;
+    }
+    public boolean fn(int nums[],int dist,int k){
+        int ptr1=0;
+        int ptr2=ptr1+1;
+        int cows=1;
+        while(ptr2<nums.length){
+            if(nums[ptr2]-nums[ptr1]>=dist){
+                cows++;
+                ptr1=ptr2;
+            }
+            ptr2++;
+        }
+        if(cows>=k){
+            return true;
+        }
+        return false;
+    }
+}
