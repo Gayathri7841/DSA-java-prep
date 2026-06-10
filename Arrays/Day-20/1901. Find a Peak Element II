@@ -1,0 +1,37 @@
+class Solution {
+    public int[] findPeakGrid(int[][] mat) {
+        int n=mat.length;
+        int m=mat[0].length;
+        int low=0;
+        int high=m-1;
+        int arr[]=new int[2];
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int rowindex=getMax(mat,mid);
+            int left=mid-1>=0?mat[rowindex][mid-1]:Integer.MIN_VALUE;
+              int right=mid+1<m?mat[rowindex][mid+1]:Integer.MIN_VALUE;
+            if(mat[rowindex][mid]>left&&mat[rowindex][mid]>right){
+arr[0]=rowindex;
+arr[1]=mid;
+break;
+            }else if(mat[rowindex][mid]<left){
+                high=mid-1;
+            }else{
+                low=mid+1;
+            }
+        }
+return arr;
+    }
+    public int getMax(int mat[][],int col){
+        int n=mat.length;
+        int max=Integer.MIN_VALUE;
+        int index=-1;
+        for(int i=0;i<n;i++){
+            if(mat[i][col]>max){
+                index=i;
+                max=mat[i][col];
+            }
+        }
+        return index;
+    }
+}
