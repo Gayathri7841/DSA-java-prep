@@ -1,0 +1,64 @@
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int data;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int val) { data = val; left = null, right = null }
+ * }
+ **/
+
+class Solution {
+    public List<Integer> boundary(TreeNode root) {
+       List<Integer> left=new ArrayList<>();
+       List<Integer> leaf=new ArrayList<>();
+       List<Integer>right=new ArrayList<>();
+          List<Integer>res=new ArrayList<>();
+       left=getLeftBoundary(root,left);
+       leaf=getLeaf(root,leaf);
+       right=getRightBoundary(root.right,right);
+       Collections.reverse(right);
+    
+       for(int num:left){
+        res.add(num);
+       }
+       for(int num:leaf){
+        res.add(num);
+       }
+        for(int num:right){
+        res.add(num);
+       }
+       return res;
+    }
+    public List<Integer> getLeftBoundary(TreeNode root,List<Integer> left){
+        if(root==null) return left;
+        if(root.left!=null||root.right!=null) left.add(root.data);
+     if(root.left != null)
+            getLeftBoundary(root.left, left);
+        else
+            getLeftBoundary(root.right, left);
+        return left;
+   
+    }
+    public List<Integer> getLeaf(TreeNode root,List<Integer> leaf){
+        if(root==null) return leaf;
+       if(root.left==null&&root.right==null) {
+        leaf.add(root.data);
+        return leaf;
+       }        
+        getLeaf(root.left, leaf);
+        getLeaf(root.right, leaf);
+      return leaf;
+    }
+    public List<Integer> getRightBoundary(TreeNode root ,List<Integer> right){
+        if(root==null) return right ;
+        if(root.right != null)
+            getRightBoundary(root.right, right);
+        else
+            getRightBoundary(root.left, right);
+        if(root.left!=null||root.right!=null) right.add(root.data);
+   return right;
+    }
+
+}
