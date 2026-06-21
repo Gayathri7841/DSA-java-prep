@@ -1,0 +1,28 @@
+class Solution {
+    public int countValidSubarrays(int[] nums, int x) {
+       long prefix[]=new long[nums.length+1];
+      
+        
+        for(int i=0;i<nums.length;i++){
+            prefix[i+1]=nums[i]+prefix[i];
+        }
+       int count=0;
+        for(int i=0;i<nums.length;i++){
+            for(int j=i;j<nums.length;j++){
+               long   sum=prefix[j+1]-prefix[i];
+                if(sum%10!=x){
+                    continue;
+                }
+                long temp=sum;
+                while(temp>=10){
+                    temp=temp/10;
+                }
+                if(temp==x){
+                    count++;
+                }
+            }
+        }
+   
+        return count;
+    }
+}
