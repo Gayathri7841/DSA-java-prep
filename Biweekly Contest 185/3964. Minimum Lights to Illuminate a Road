@@ -1,0 +1,36 @@
+class Solution {
+    public int minLights(int[] lights) {
+    int n=lights.length;
+        int ans=0;
+        int covered[]=new int[n];
+       for(int i=0;i<n;i++){
+        if(lights[i]>0){
+            int l=Math.max(0,i-lights[i]);
+            int r=Math.min(n-1,i+lights[i]);
+            covered[l]++;
+            if(r+1<n) covered[r+1]--;
+        }
+       }
+       int active=0;
+       for(int i=0;i<n;i++){
+active=active+covered[i];
+covered[i]=active;
+       }
+       for(int i=0;i<n;i++){
+          
+           if(covered[i]==0){
+             int seglen=0;
+ while(i<n&&covered[i]==0){
+       
+           
+               seglen++;
+            i++;
+        }
+ans += (int)Math.ceil(seglen / 3.0);
+i--;
+           }
+       
+       }
+      return ans; 
+    }
+}
