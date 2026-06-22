@@ -1,0 +1,29 @@
+class Solution {
+    public long finishTime(int n, int[][] edges, int[] baseTime) {
+      List<List<Integer>> adj=new ArrayList<>();
+      for(int i=0;i<n;i++){
+        adj.add(new ArrayList<>());
+      }
+      for(int[] edge:edges){
+        int parent=edge[0];
+        int child=edge[1];
+        adj.get(parent).add(child);
+      }
+      long res=dfs(0,baseTime,adj);
+      return res;
+    }
+    public long dfs(int i,int[]baseTime,List<List<Integer>> adj){
+       
+     if(adj.get(i).size()==0) return baseTime[i];
+     
+    long latest=Long.MIN_VALUE;
+    long earliest=Long.MAX_VALUE;
+    for(int child:adj.get(i)){
+        long finish=dfs(child,baseTime,adj);
+        earliest=Math.min(earliest,finish);
+        latest=Math.max(latest,finish);
+    }
+    long od=(latest-earliest)+baseTime[i];
+    return latest+od;
+    }
+}
