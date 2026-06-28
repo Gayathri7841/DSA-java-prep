@@ -1,0 +1,48 @@
+class Solution {
+    public List<List<Integer>> filterOccupiedIntervals(int[][] occupiedIntervals, int freeStart, int freeEnd) {
+        Arrays.sort(occupiedIntervals,(a,b)->Integer.compare(a[0],b[0]));
+        List<List<Integer>> res=new ArrayList<>();
+       int curr=0;
+        int next=curr+1;
+        while(next<occupiedIntervals.length){
+            if(occupiedIntervals[next][0]<=occupiedIntervals[curr][1]+1){
+                occupiedIntervals[curr][1]=Math.max(occupiedIntervals[curr][1],occupiedIntervals[next][1]);
+                next++;
+            }
+            else{
+                List<Integer> list=new ArrayList<>();
+                list.add(occupiedIntervals[curr][0]);
+                 list.add(occupiedIntervals[curr][1]);
+                res.add(new ArrayList<>(list));
+                curr=next;
+                next=next+1;
+            }
+        }
+        List<Integer> list = new ArrayList<>();
+list.add(occupiedIntervals[curr][0]);
+list.add(occupiedIntervals[curr][1]);
+res.add(list);
+List<List<Integer>> ans = new ArrayList<>();
+for(List<Integer> interval:res){
+     int l = interval.get(0);
+    int r = interval.get(1);
+      if (r < freeStart || l > freeEnd) {
+        ans.add(Arrays.asList(l, r));
+    } else {
+        // Left remaining part
+        if (l < freeStart) {
+            ans.add(Arrays.asList(l, freeStart - 1));
+        }
+
+        // Right remaining part
+        if (r > freeEnd) {
+            ans.add(Arrays.asList(freeEnd + 1, r));
+        }
+    }
+}
+       
+
+        
+        return ans;
+    }
+}
