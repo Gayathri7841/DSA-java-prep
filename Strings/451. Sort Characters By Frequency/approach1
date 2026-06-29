@@ -1,0 +1,29 @@
+class Solution {
+    public String frequencySort(String s) {
+       Map<Character,Integer> map=new HashMap<>();
+       for(int i=0;i<s.length();i++){
+map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+       }
+     int len=s.length();
+     LinkedList<Character>[] arr=new LinkedList[len+1];
+     for (int i = 0; i <= len; i++) {
+    arr[i] = new LinkedList<>();
+}
+     for(char c:map.keySet()){
+        int index=map.get(c);
+        arr[index].add(c);
+     }
+
+StringBuilder res=new StringBuilder();
+for(int i=len;i>=1;i--){
+    int size=arr[i].size();
+    for(int j=0;j<size;j++){
+        for(int k=0;k<i;k++){
+            res.append(arr[i].get(j));
+        }
+    }
+}
+    return res.toString();
+}
+
+    }
