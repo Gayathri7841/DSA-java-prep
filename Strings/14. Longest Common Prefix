@@ -1,0 +1,50 @@
+class Solution {
+    class TrieNode{
+        TrieNode children[]=new TrieNode[26];
+        boolean isEnd;
+    }
+    TrieNode root=new TrieNode();
+    public String longestCommonPrefix(String[] strs) {
+        for(String word:strs){
+            insert(word);
+        }
+        StringBuilder sb=new StringBuilder();
+          TrieNode curr=root;
+        
+      
+        while(true){
+            int count=0;
+            int index=-1;
+            for(int i=0;i<26;i++){
+                if(curr.children[i]!=null){
+                    count++;
+                    index=i;
+                }
+             }
+               if(count!=1||curr.isEnd){
+                    break;
+                }
+                sb.append((char)(index+'a'));
+            curr=curr.children[index];
+
+        }
+        return sb.toString();
+    }
+    public void insert(String word){
+        TrieNode curr=root;
+       
+            for(char ch:word.toCharArray()){
+                int val=ch-'a';
+
+if(curr.children[val]==null){
+    curr.children[val]=new TrieNode();
+}
+curr=curr.children[val];
+ 
+        }
+          curr.isEnd=true;
+        }
+     
+
+    
+}
