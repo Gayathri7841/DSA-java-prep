@@ -9,6 +9,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0005-longest-palindromic-substring](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +29,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
