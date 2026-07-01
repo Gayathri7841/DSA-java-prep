@@ -33,4 +33,12 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
