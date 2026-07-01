@@ -36,6 +36,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0707-design-linked-list) |
 ## Design
 |  |
