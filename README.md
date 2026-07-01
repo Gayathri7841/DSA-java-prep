@@ -37,6 +37,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0876-middle-of-the-linked-list) |
@@ -44,4 +45,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0707-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
