@@ -1,0 +1,19 @@
+class Solution {
+    List<String> res=new ArrayList<>();
+    int N;
+    public List<String> generateBinaryStrings(int n) {
+      N=n;  
+       fn(-1,"",0);
+        return res;
+    }
+    public void fn(int prev, String temp,int pos){
+        if(pos==N){
+            res.add(temp);
+            return;
+        }
+      fn(0,temp+'0',pos+1);
+      if(prev!=1){
+        fn(1,temp+'1',pos+1);
+      }
+    }
+}
