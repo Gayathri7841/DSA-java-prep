@@ -1,0 +1,18 @@
+class Solution {
+    List<List<Integer>> res=new ArrayList<>();
+    public List<List<Integer>> powerSet(int[] nums) {
+     List<Integer> list=new ArrayList<>();
+     fn(list,0,nums);
+     return res;
+    }
+    public void fn(List<Integer> list,int i,int[] nums){
+        if(i==nums.length){
+            res.add(new ArrayList<>(list));
+            return;
+        }
+    list.add(nums[i]);
+    fn(list,i+1,nums);
+    list.remove(list.size()-1);
+    fn(list,i+1,nums);
+    }
+}
