@@ -24,6 +24,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0005-longest-palindromic-substring](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -66,4 +68,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
