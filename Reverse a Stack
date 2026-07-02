@@ -1,0 +1,18 @@
+class Solution {
+    public void reverseStack(Stack<Integer> st) {
+      if(st.isEmpty()) return;
+      int x=st.pop();
+      reverseStack(st);
+      fn(x,st);
+    }
+    public void fn(int x , Stack<Integer> st){
+        if(st.isEmpty()) 
+        {
+            st.push(x);
+return;
+        }
+        int temp=st.pop();
+        fn(x,st);
+        st.push(temp);
+    }
+}
