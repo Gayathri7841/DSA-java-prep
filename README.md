@@ -72,4 +72,9 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0039-combination-sum) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
