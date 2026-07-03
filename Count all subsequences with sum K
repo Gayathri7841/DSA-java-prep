@@ -1,0 +1,27 @@
+class Solution {
+    int count=0;
+    int K;
+    public int countSubsequenceWithTargetSum(int[] nums, int k) {
+        K=k;
+     
+     fn(nums,0,0);
+     return count;
+
+    }
+    public void fn(int nums[],int i,int sum){
+        if(i==nums.length){
+            if(sum==K){
+                count++;
+              
+            }
+              return;
+        }
+        if(sum>K){
+            return;
+        }
+       
+        fn(nums,i+1,sum+nums[i]);
+      
+        fn(nums,i+1,sum);
+    }
+}
