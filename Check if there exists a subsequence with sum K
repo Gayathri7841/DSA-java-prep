@@ -1,0 +1,21 @@
+class Solution {
+    int K;
+    public boolean checkSubsequenceSum(int[] nums, int k) {
+         //your code goes here
+K=k;
+         boolean ans=fn(nums,0,0);
+         return ans;
+    }
+    public boolean fn(int nums[],int sum,int i){
+        if(i==nums.length()){
+            if(sum==K){
+                return true;
+            }
+                return false;
+            
+        }
+        boolean left=fn(nums,sum+nums[i],i+1);
+        boolean right=fn(nums,sum,i+1);
+        return left||right;
+    }
+}
