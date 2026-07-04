@@ -76,6 +76,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0040-combination-sum-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0040-combination-sum-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
