@@ -1,0 +1,59 @@
+Given a string s partition string s such that every substring of partition is palindrome. Return all possible palindrome partition of string s.
+
+
+Example 1
+
+Input : s = "aabaa"
+
+Output : [ [ "a", "a", "b", "a", "a"] , [ "a", "a", "b", "aa"] , [ "a", "aba", "a"] , [ "aa", "b", "a", "a"] , [ "aa", "b", "aa" ] , [ "aabaa" ] ]
+
+Explanation : Above all are the possible ways in which the string can be partitioned so that each substring is a palindrome.
+
+Example 2
+
+Input : s = "baa"
+
+Output : [ [ "b", "a", "a"] , [ "b", "aa" ] ]
+
+Explanation : Above all are the possible ways in which the string can be partitioned so that each substring is a palindrome.
+
+
+
+
+
+
+class Solution {
+    List<List<String>> res=new ArrayList<>();
+    public List<List<String>> partition(String s) {
+   List<String> list=new ArrayList<>();
+fn(s,0,list);
+return res;
+    }
+    public void fn(String s,int index,List<String> list){
+       if(index==s.length()){
+        res.add(new ArrayList<>(list));
+        return;
+       }
+       for(int end=index+1;end<=s.length();end++){
+        if(isPalindrome(s.substring(index,end))){
+            list.add(s.substring(index,end));
+            fn(s,end,list);
+            list.remove(list.size()-1);
+        }else{
+            continue;
+        }
+       }
+    }
+    public boolean isPalindrome(String s){
+        int left=0;
+        int right=s.length()-1;
+        while(left<right){
+            if(s.charAt(left)!=s.charAt(right)){
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
+    }
+}
