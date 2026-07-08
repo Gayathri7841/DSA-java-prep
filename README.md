@@ -17,6 +17,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0062-unique-paths) |
 | [1922-count-good-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -40,6 +41,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0062-unique-paths) |
 ## Counting
 |  |
 | ------- |
@@ -110,4 +112,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
