@@ -81,6 +81,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0090-subsets-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0090-subsets-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +109,5 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
