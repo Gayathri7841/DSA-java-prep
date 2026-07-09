@@ -19,6 +19,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0062-unique-paths) |
+| [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -28,6 +29,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -85,6 +87,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 ## Array
