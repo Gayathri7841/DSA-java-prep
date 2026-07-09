@@ -8,11 +8,13 @@ class Solution {
        for(String word:wordDict){
         maxLen=Math.max(maxLen,word.length());
        }
-        for(int i=1;i<=len;i++){
-for(int j=i-1;j>=Math.max(0,i-maxLen);j--){
-    if(dp[j]&&set.contains(s.substring(j,i))){
-        dp[i]=true;
+        for(int i=0;i<len;i++){
+for(int j=i;j>=Math.max(0,i-maxLen);j--){
+    if(set.contains(s.substring(j,i+1))){
+        if(dp[j]){
+        dp[i+1]=true;
         break;
+        }
     }
 }
         }
