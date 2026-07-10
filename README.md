@@ -20,6 +20,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1922-count-good-numbers) |
 ## String
@@ -48,6 +49,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 ## Counting
 |  |
@@ -137,5 +139,6 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
