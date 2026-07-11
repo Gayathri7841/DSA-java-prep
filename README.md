@@ -52,6 +52,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0070-climbing-stairs](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0403-frog-jump) |
 ## Counting
 |  |
@@ -110,6 +111,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0090-subsets-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 | [0403-frog-jump](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0403-frog-jump) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
