@@ -1,0 +1,21 @@
+class Solution {
+    int[] heights;
+    int dp[];
+    public int frogJump(int[] heights) {
+        this.heights=heights;
+        dp=new int[heights.length];
+        Arrays.fill(dp,-1);
+        return fn(heights.length-1);
+    }
+    public int fn(int index){
+      
+        if(index==0) return 0;
+        if(dp[index]!=-1) return dp[index];
+        int left=Math.abs(heights[index]-heights[index-1])+fn(index-1);
+        int right=Integer.MAX_VALUE;
+        if(index!=1){
+         right=Math.abs(heights[index]-heights[index-2])+fn(index-2);
+        }
+        return dp[index]=Math.min(left,right);
+    }
+}
