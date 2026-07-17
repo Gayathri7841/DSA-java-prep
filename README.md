@@ -42,6 +42,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0141-linked-list-cycle](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0876-middle-of-the-linked-list) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -122,6 +123,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 | [0403-frog-jump](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
@@ -168,6 +170,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
@@ -183,4 +186,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1920-build-array-from-permutation) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
