@@ -57,6 +57,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
@@ -121,6 +122,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0198-house-robber](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
@@ -190,4 +192,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
