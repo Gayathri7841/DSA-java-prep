@@ -1,0 +1,59 @@
+Given two integer arrays, val and wt, each of size N, representing the values and weights of N items respectively, and an integer W, representing the maximum capacity of a knapsack, determine the maximum value achievable by selecting a subset of the items such that the total weight of the selected items does not exceed the knapsack capacity W. The goal is to maximize the sum of the values of the selected items while keeping the total weight within the knapsack's capacity.
+
+
+
+An infinite supply of each item can be assumed.
+
+
+Example 1
+
+Input: val = [5, 11, 13], wt = [2, 4, 6], W = 10
+
+Output: 27
+
+Explanation: Select 2 items with weights 4 and 1 item with weight 2 for a total value of 11+11+5 = 27.
+
+Example 2
+
+Input: val = [10, 40, 50, 70], wt = [1, 3, 4, 5], W = 8
+
+Output: 110
+
+Explanation: Select items with weights 3 and 5 for a total value of 40 + 70 = 110.
+
+
+
+
+
+
+class Solution {
+    int wt[];
+    int val[];
+    int n;
+    int w;
+    Integer dp[][];
+    public int unboundedKnapsack(int[] wt, int[] val, int n, int W) {
+  this.wt=wt;
+  this.val=val;
+  this.n=n;
+  w=W;
+  dp=new Integer[wt.length][W+1];
+  return fn(0,0);
+    }
+    private int fn(int index,int sum){
+        if(sum>w) return Integer.MIN_VALUE;
+        if(index==wt.length){
+            if(sum<=w) return 0;
+return Integer.MIN_VALUE;
+        }
+        if(dp[index][sum]!=null) return dp[index][sum];
+        int take=Integer.MIN_VALUE;
+    if(fn(index,sum+wt[index])!=Integer.MIN_VALUE){
+        take=val[index]+fn(index,sum+wt[index]);
+    }
+    int nottake=fn(index+1,sum);
+    return dp[index][sum]=Math.max(take,nottake);
+    }
+}
+
+
