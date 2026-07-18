@@ -61,6 +61,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0403-frog-jump](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -129,6 +130,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0416-partition-equal-subset-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
