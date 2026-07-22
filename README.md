@@ -31,6 +31,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0008-string-to-integer-atoi](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0115-distinct-subsequences) |
@@ -58,6 +59,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0070-climbing-stairs) |
@@ -100,6 +102,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0234-palindrome-linked-list) |
@@ -212,6 +215,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 ## Breadth-First Search
 |  |
