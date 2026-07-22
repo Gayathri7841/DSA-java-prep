@@ -32,6 +32,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0516-longest-palindromic-subsequence) |
@@ -59,6 +60,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0062-unique-paths](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0213-house-robber-ii) |
