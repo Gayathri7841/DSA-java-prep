@@ -1,0 +1,47 @@
+class Solution {
+    public List<List<Integer>> aggregateTimeSeries(int[][] series1, int[][] series2) {
+int ptr1=0,ptr2=0;
+        List<List<Integer>> res=new ArrayList<>();
+           
+        while(ptr1<series1.length&&ptr2<series2.length){
+            if(series1[ptr1][0]<series2[ptr2][0]){
+                 List<Integer> list=new ArrayList<>();
+                list.add(series1[ptr1][0]);
+                list.add(series1[ptr1][1]+series2[ptr2][1]);
+                res.add(list);
+                ptr1++;
+            }else if(series1[ptr1][0]>series2[ptr2][0]){
+                List<Integer> list=new ArrayList<>();
+                list.add(series2[ptr2][0]);
+                list.add(series1[ptr1][1]+series2[ptr2][1]);
+                ptr2++;
+                res.add(list);
+            }else{
+                List<Integer> list=new ArrayList<>();
+                list.add(series1[ptr1][0]);
+                list.add(series1[ptr1][1]+series2[ptr2][1]);
+                ptr1++;
+                ptr2++;
+                res.add(list);
+            }
+        }
+        while(ptr1<series1.length){
+            List<Integer> list=new ArrayList<>();
+            list.add(series1[ptr1][0]);
+            list.add(series1[ptr1][1]);
+            res.add(list);
+            ptr1++;
+           
+        }while(ptr2<series2.length){
+            List<Integer> list=new ArrayList<>();
+            list.add(series2[ptr2][0]);
+            list.add(series2[ptr2][1]);
+            res.add(list);
+            ptr2++;
+        }
+
+
+return res;
+        
+    }
+}
