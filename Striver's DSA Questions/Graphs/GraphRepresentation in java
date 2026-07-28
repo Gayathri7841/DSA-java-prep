@@ -51,3 +51,83 @@ public static void printAdjMatrix(int[][] edge,int n,int m) {
 }
 }
 
+
+
+
+
+
+------------------------------------------------------------------using adjacency List--------------------------------------------------------------------------
+
+
+
+
+
+package Graphs;
+import java.util.*;
+public class Demo {
+public static void printAdjList(int[][] edge,int n,int m) {
+	List<Integer> adjlist[]=new ArrayList[n];
+	for(int i=0;i<adjlist.length;i++) {
+		adjlist[i]=new ArrayList<>();
+	}
+	
+
+	for(int i=0;i<m;i++) {
+		
+		int u=edge[i][0];
+		int v=edge[i][1];
+		
+		adjlist[u].add(v);
+		adjlist[v].add(u);
+		
+	}
+	for (int i = 0; i < n; i++) {
+	    System.out.print(i + " -> ");
+	    System.out.println(adjlist[i]);
+	}
+	
+}
+	
+	
+	public static void main(String[] args) {
+		
+		 Scanner sc = new Scanner(System.in);
+
+	        // Number of nodes
+	        int n = sc.nextInt();
+
+	        // Number of edges
+	        int m = sc.nextInt();
+
+	        // Edge Array
+	        int[][] edges = new int[m][2];
+
+	        for (int i = 0; i < m; i++) {
+	            edges[i][0] = sc.nextInt();
+	            edges[i][1] = sc.nextInt();
+	        }
+
+	        printAdjList(edges, n, m);
+
+	            
+	
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
