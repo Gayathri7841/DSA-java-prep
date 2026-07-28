@@ -1,0 +1,66 @@
+import java.util.*;
+
+public class Example {
+
+    public static void bfs(int[][] edges, int n, int m) {
+
+        List<Integer>[] adj = new ArrayList[n];
+List<Integer> res=new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            adj[i] = new ArrayList<>();
+        }
+
+       
+        for (int i = 0; i < m; i++) {
+            int u = edges[i][0];
+            int v = edges[i][1];
+
+            adj[u].add(v);
+            adj[v].add(u); 
+        }
+
+        boolean visited[]=new boolean[n+1];
+        for (int start = 0; start < n; start++) {
+          
+         
+           if(!visited[start]) {
+        	   Queue<Integer> q=new LinkedList<>();
+        	   q.offer(start);
+        	   visited[start]=true;
+        	   while(!q.isEmpty()) {
+        		   int node=q.poll();
+        		   for(int a:adj[node]) {
+        			   if(!visited[a]) {
+        				   q.offer(a);
+        				   visited[a]=true;
+        			   }
+        		   }
+        		   res.add(node);
+        	   }
+           }
+        }
+        
+        for(int b:res) {
+        	System.out.print(b);
+        }
+    }
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt(); 
+        int m = sc.nextInt(); 
+
+        int[][] edges = new int[m][2];
+
+        for (int i = 0; i < m; i++) {
+            edges[i][0] = sc.nextInt();
+            edges[i][1] = sc.nextInt();
+        }
+
+        bfs(edges, n, m);
+
+        sc.close();
+    }
+}
