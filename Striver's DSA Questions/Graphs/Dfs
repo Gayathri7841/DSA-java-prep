@@ -1,0 +1,68 @@
+import java.util.*;
+
+public class Example {
+static List<Integer> res=new ArrayList<>();
+static int n;
+static List<Integer>[] adj;
+static boolean[] visited;
+
+    public static void bfs(int[][] edges, int n, int m) {
+
+       Example.n=n;
+       adj = new ArrayList[n];
+       visited = new boolean[n];
+        for (int i = 0; i < n; i++) {
+            adj[i] = new ArrayList<>();
+        }
+
+       
+        for (int i = 0; i < m; i++) {
+            int u = edges[i][0];
+            int v = edges[i][1];
+
+            adj[u].add(v);
+            adj[v].add(u); 
+        }
+
+        visited[0]=true;
+        res.add(0);
+       fn(0);
+      
+       for(int num:res) {
+    	   System.out.println(num);
+       }
+    }
+    public static void fn(int i) {
+    	
+    	for(int num:adj[i]) {
+    		if(!visited[num]) {
+    		visited[num]=true;
+    		res.add(num);
+    		fn(num);
+    		}
+    		
+    		
+    	}
+    	
+    }
+    
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt(); 
+        int m = sc.nextInt(); 
+
+        int[][] edges = new int[m][2];
+
+        for (int i = 0; i < m; i++) {
+            edges[i][0] = sc.nextInt();
+            edges[i][1] = sc.nextInt();
+        }
+
+        bfs(edges, n, m);
+
+        sc.close();
+    }
+}
