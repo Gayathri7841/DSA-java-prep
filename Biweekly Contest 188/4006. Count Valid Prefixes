@@ -1,0 +1,13 @@
+class Solution {
+    public int countValidPrefixes(String s) {
+       int count=0;
+        int zcount=0;
+        int ocount=0;
+        for(int right=0;right<s.length();right++){
+            if(s.charAt(right)=='0') zcount++;
+            else ocount++;
+            if(Math.abs(zcount-ocount)<=1) count++;
+        }
+        return count;
+    }
+}
