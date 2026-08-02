@@ -1,0 +1,48 @@
+class Solution {
+    public long minInitialStrength(int[] monsters, int[][] boosts) {
+        int n=monsters.length;
+        long diff[]=new long[n+1];
+        for(int[] b:boosts){
+            int l=b[0];
+            int r=b[1];
+            int v=b[2];
+            diff[l]+=v;
+            if(r+1<diff.length) diff[r+1]-=v;
+        }
+        long bonus[]=new long[n];
+        bonus[0]=diff[0];
+        for(int i=1;i<n;i++){
+            bonus[i]=bonus[i-1]+diff[i];
+        }
+
+        
+    long sum=0;
+        for(int i=0;i<monsters.length;i++){
+            sum=sum+monsters[i];
+        }
+        
+        long left=0;
+        long right=sum;
+       
+        while(left<right){
+             long mid=left+(right-left)/2;
+           if(candefeat(mid,monsters,bonus)){
+               right=mid;
+           }else{
+               left=mid+1;
+           }
+            }
+          return left;  
+            
+        }
+    public boolean candefeat(long energy,int[] nums,long[] bonus){
+        
+        long current=energy;
+        for(int i=0;i<nums.length;i++){
+            if(current+bonus[i]<nums[i]) return false;
+            current-=nums[i];
+            if(current<0) current=0;
+        }
+        return true;
+    }
+    }
