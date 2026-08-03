@@ -191,6 +191,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -255,6 +256,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
@@ -265,10 +267,12 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -277,4 +281,12 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0877-stone-game) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
