@@ -26,6 +26,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0368-largest-divisible-subset](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0368-largest-divisible-subset) |
 | [0877-stone-game](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1922-count-good-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -307,4 +308,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
