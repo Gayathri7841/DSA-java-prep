@@ -172,6 +172,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0877-stone-game](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0877-stone-game) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1480-running-sum-of-1d-array) |
@@ -197,6 +198,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -209,6 +211,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 ## Combinatorics
 |  |
@@ -268,6 +271,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
@@ -279,6 +283,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
