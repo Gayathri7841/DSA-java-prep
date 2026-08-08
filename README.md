@@ -10,6 +10,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0142-linked-list-cycle-ii) |
@@ -38,6 +39,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0072-edit-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0516-longest-palindromic-subsequence) |
@@ -265,6 +267,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
@@ -326,4 +329,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
