@@ -1,0 +1,47 @@
+class Solution {
+    int m,n;
+    public int maxArea(int[][] mat) {
+        m=mat.length;
+        n=mat[0].length;
+        int prefix[][]=new int[m+1][n+1];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                prefix[i+1][j+1]=mat[i][j]+prefix[i][j+1]+prefix[i+1][j]-prefix[i][j];
+                    
+            }
+        }
+        int low=1;
+        int high=Math.min(m,n);
+        int ans=0;
+        while(low<=high){
+            int k=low+(high-low)/2;
+            if(fn(mat,prefix,k)){
+                ans=k;
+                low=k+1;
+            }else{
+                high=k-1;
+            }
+        }
+        return ans*ans;
+    }
+    private boolean fn(int[][] mat,int[][] prefix,int k){
+        int minRow=Integer.MAX_VALUE;
+        int minCol=Integer.MAX_VALUE;
+        int maxCol=Integer.MIN_VALUE;
+        for(int i=0;i+k<=m;i++){
+            for(int j=0;j+k<=n;j++){
+                int ones=prefix[i+k][j+k]-prefix[i][j+k]-prefix[i+k][j]+prefix[i][j];
+                if(ones!=k*k){
+                    continue;
+                }
+                if(minRow<=i-k||minCol<=j-k||maxCol>=j+k){
+                    return true;
+                }
+                minRow=Math.min(minRow,i);
+                minCol=Math.min(minCol,j);
+                maxCol=Math.max(maxCol,j);
+            }
+        }
+        return false;
+    }
+}
