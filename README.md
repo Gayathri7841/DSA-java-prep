@@ -178,6 +178,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [1920-build-array-from-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1920-build-array-from-permutation) |
