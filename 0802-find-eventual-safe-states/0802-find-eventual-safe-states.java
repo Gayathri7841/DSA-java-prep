@@ -1,21 +1,25 @@
 class Solution {
     int[][] graph;
-    Set<Integer> res=new HashSet<>();
+    
       boolean visited[];
        boolean path[];
+       int[] safe;
     public List<Integer> eventualSafeNodes(int[][] graph) {
      this.graph=graph;
     visited =new boolean[graph.length];
     path=new boolean[graph.length];
+    safe=new int[graph.length];
        for(int i=0;i<visited.length;i++){
         if(!visited[i]){
          boolean b=   dfs(i);
         }
        }
      
-       List<Integer> result=new ArrayList<>(res);
-         Collections.sort(result);
-       return result;
+       List<Integer> result=new ArrayList<>();
+        for(int i=0;i<safe.length;i++){
+            if(safe[i]==1) result.add(i);
+        }
+        return result;
         
     }
     private boolean dfs(int node){
@@ -25,7 +29,7 @@ class Solution {
           
           }
           if(visited[node]){
-         if(res.contains(node)){
+         if(safe[node]==1){
             return true;
           }
           return false;
@@ -34,7 +38,7 @@ class Solution {
         path[node]=true;
         int n=graph[node].length;
         if(n==0) {
-            res.add(node);
+          safe[node]=1;
             path[node]=false;
         return true;
         }
@@ -47,7 +51,7 @@ class Solution {
             }
         }
         path[node]=false;
-        res.add(node);
+        safe[node]=1;
         return true;
     }
 }
