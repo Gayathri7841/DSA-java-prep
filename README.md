@@ -203,6 +203,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -278,6 +279,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
@@ -300,6 +302,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0210-course-schedule-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
 ## Prefix Sum
 |  |
@@ -322,6 +325,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -334,4 +338,12 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
