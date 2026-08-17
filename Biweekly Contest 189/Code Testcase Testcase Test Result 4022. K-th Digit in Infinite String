@@ -1,0 +1,45 @@
+class Solution {
+    public int kthDigit(long k) {
+        if(k<=9) return (int)k;
+        k=k-9;
+        int d=2;
+
+        //Step1-find d value
+        while(true){
+            long totalNoOfBlocks=9L*power(10,d-2);
+            long totalNoOfDigits=totalNoOfBlocks*10L*d;
+            if(k>totalNoOfDigits){
+                k=k-totalNoOfDigits;
+                d++;
+            }else{
+                break;
+            }
+        }
+// step 2- find b value 
+long noOfDigitsInEachBlock=10L*d;
+long b=power(10,d-2);
+while(k>noOfDigitsInEachBlock){
+    k=k-noOfDigitsInEachBlock;
+    b++;
+}
+// step 3 find the number,digit in the block b dont forget to handle even and odd cases of b
+long numberIndex=(k-1)/d;
+long number;
+if(b%2==0){
+    number=10*b+numberIndex;
+}else{
+    number=10*b+(9-numberIndex);
+}
+long digitIndex=(k-1)%d;
+String num=Long.toString(number);
+return num.charAt((int)digitIndex)-'0';
+}
+    private long power(int a,int n){
+        
+        long mul=1;
+        for(int i=1;i<=n;i++){
+        mul=mul*a;
+        }
+        return mul;
+    }
+}
