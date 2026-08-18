@@ -10,6 +10,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0141-linked-list-cycle) |
@@ -39,6 +40,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0072-edit-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
@@ -135,6 +137,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0078-subsets](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0494-target-sum) |
@@ -270,6 +273,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
@@ -341,6 +345,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 ## Kosaraju's Algorithm
 |  |
