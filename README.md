@@ -179,6 +179,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1470-shuffle-the-array) |
@@ -223,6 +224,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 ## Combinatorics
 |  |
@@ -287,6 +289,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
