@@ -95,6 +95,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1092-shortest-common-supersequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -330,6 +331,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
@@ -382,11 +384,21 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
