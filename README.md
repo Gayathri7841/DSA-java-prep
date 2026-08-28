@@ -15,6 +15,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0142-linked-list-cycle-ii) |
+| [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -49,6 +50,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [1092-shortest-common-supersequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -180,6 +182,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0518-coin-change-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
@@ -216,6 +219,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
@@ -267,6 +271,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1710-maximum-units-on-a-truck) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
@@ -305,6 +310,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
@@ -330,6 +336,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0130-surrounded-regions](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
