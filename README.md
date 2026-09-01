@@ -185,6 +185,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
 | [0827-making-a-large-island](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0877-stone-game) |
@@ -223,6 +224,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
@@ -243,6 +245,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0827-making-a-large-island) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0994-rotting-oranges) |
@@ -267,6 +270,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
@@ -316,6 +320,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0802-find-eventual-safe-states) |
@@ -331,6 +336,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
@@ -341,6 +347,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -420,6 +427,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -435,4 +443,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
