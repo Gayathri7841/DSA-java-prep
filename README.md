@@ -216,6 +216,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
@@ -308,6 +309,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0130-surrounded-regions) |
@@ -447,4 +449,12 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
