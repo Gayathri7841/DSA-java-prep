@@ -15,6 +15,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0142-linked-list-cycle-ii) |
+| [0389-find-the-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
@@ -48,6 +49,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
+| [0389-find-the-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
@@ -208,6 +210,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0078-subsets](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0090-subsets-ii) |
+| [0389-find-the-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0389-find-the-difference) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
@@ -278,6 +281,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
