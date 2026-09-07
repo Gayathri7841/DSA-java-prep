@@ -187,6 +187,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
@@ -383,6 +384,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1480-running-sum-of-1d-array) |
 ## Game Theory
 |  |
