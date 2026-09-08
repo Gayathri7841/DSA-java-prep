@@ -16,6 +16,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0141-linked-list-cycle](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0142-linked-list-cycle-ii) |
 | [0389-find-the-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
@@ -185,6 +186,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0494-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0724-find-pivot-index) |
@@ -384,6 +386,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1480-running-sum-of-1d-array) |
 ## Game Theory
