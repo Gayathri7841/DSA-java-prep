@@ -51,6 +51,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [0389-find-the-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
@@ -180,6 +181,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
@@ -229,6 +231,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0733-flood-fill) |
@@ -326,6 +329,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
@@ -356,6 +360,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
@@ -371,6 +376,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0785-is-graph-bipartite) |
@@ -433,6 +439,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -448,10 +455,12 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Floyd–Warshall Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Meet in the Middle
 |  |
