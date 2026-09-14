@@ -129,6 +129,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0307-range-sum-query-mutable) |
 | [0707-design-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -180,6 +181,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0368-largest-divisible-subset) |
@@ -481,4 +483,20 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
