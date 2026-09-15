@@ -61,6 +61,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1143-longest-common-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0876-middle-of-the-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0876-middle-of-the-linked-list) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -323,6 +326,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1710-maximum-units-on-a-truck) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
