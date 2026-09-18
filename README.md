@@ -23,6 +23,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1002-find-common-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1002-find-common-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -62,6 +63,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1092-shortest-common-supersequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
@@ -308,6 +310,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1710-maximum-units-on-a-truck) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -332,6 +335,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0044-wildcard-matching](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1710-maximum-units-on-a-truck) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Breadth-First Search
