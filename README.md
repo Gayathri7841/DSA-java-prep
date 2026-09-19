@@ -36,6 +36,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0368-largest-divisible-subset](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0368-largest-divisible-subset) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -519,4 +520,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
