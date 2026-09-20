@@ -67,6 +67,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -330,6 +331,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
