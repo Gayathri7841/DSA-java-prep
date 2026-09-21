@@ -40,6 +40,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +231,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1920-build-array-from-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1929-concatenation-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
