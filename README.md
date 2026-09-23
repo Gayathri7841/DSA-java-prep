@@ -24,6 +24,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1002-find-common-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1002-find-common-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -227,6 +228,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1710-maximum-units-on-a-truck) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [1920-build-array-from-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1920-build-array-from-permutation) |
@@ -308,6 +310,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
@@ -424,6 +427,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0724-find-pivot-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Game Theory
 |  |
 | ------- |
@@ -528,6 +532,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
 | ------- |
