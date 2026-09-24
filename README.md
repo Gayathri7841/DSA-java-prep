@@ -43,6 +43,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
