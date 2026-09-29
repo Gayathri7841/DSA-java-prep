@@ -130,6 +130,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 ## Counting
@@ -244,6 +245,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1920-build-array-from-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1929-concatenation-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -300,6 +302,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
@@ -554,4 +557,5 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
