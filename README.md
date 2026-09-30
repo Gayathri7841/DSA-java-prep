@@ -69,6 +69,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1002-find-common-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1002-find-common-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -166,6 +167,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
@@ -556,6 +558,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
