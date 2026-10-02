@@ -1,23 +1,21 @@
 class Solution {
-    List<String> res=new ArrayList<>();
-    int N;
-
     public List<String> generateParenthesis(int n) {
-        N=n;
-        fn("",0,0,0);
+        List<String> res=new ArrayList<>();
+        fn(0,0,res,n,"");
         return res;
     }
-    public void fn(String temp,int oc,int cc,int size){
-        if(size==N*2&&oc==cc){
+    public void fn(int open,int close,List<String> res,int n,String temp){
+        if(temp.length()==n*2){
             res.add(temp);
-            return ;
+            return;
         }
-        if(oc<N){
-          fn(temp+'(',oc+1,cc,size+1);
+        if(open<n){
+            
+            fn(open+1,close,res,n,temp+"(");
         }
-        if(cc<oc){
-            fn(temp+')',oc,cc+1,size+1);
+        if(close<open){
+           
+            fn(open,close+1,res,n,temp+")");
         }
-      
     }
 }
