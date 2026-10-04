@@ -67,6 +67,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [1002-find-common-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1002-find-common-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1092-shortest-common-supersequence) |
@@ -120,6 +121,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0518-coin-change-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -172,6 +174,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0020-valid-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -371,6 +374,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1710-maximum-units-on-a-truck) |
@@ -570,6 +574,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0020-valid-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
