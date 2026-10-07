@@ -63,6 +63,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0127-word-ladder](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0516-longest-palindromic-subsequence) |
@@ -196,6 +197,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0126-word-ladder-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1096-brace-expansion-ii) |
@@ -394,6 +396,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0200-number-of-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
