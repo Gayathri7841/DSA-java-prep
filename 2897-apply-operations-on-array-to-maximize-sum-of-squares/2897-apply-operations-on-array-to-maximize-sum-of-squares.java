@@ -13,7 +13,7 @@ class Solution {
             long x=0;
             for(int i=0;i<32;i++){
                 if(b[i]>0){
-                    x|=1L<<i;
+                    x|=1<<i;
                     b[i]--;
                 }
 
