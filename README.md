@@ -274,6 +274,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Gayathri7841/DSA-java-prep/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Bit Manipulation
 |  |
@@ -369,6 +370,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Gayathri7841/DSA-java-prep/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Ordered Set
 |  |
@@ -400,6 +402,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
