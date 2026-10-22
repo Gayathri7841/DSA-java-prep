@@ -90,6 +90,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
