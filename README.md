@@ -50,6 +50,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [3525-find-x-value-of-array-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -281,6 +282,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [3525-find-x-value-of-array-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Gayathri7841/DSA-java-prep/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Bit Manipulation
@@ -378,6 +380,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3886-sum-of-sortable-integers) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Gayathri7841/DSA-java-prep/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Ordered Set
 |  |
@@ -522,6 +525,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3886-sum-of-sortable-integers) |
 ## Bidirectional Search
 |  |
 | ------- |
