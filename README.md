@@ -262,6 +262,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -319,6 +320,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0827-making-a-large-island](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1971-find-if-path-exists-in-graph) |
@@ -340,6 +342,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
@@ -443,6 +446,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1971-find-if-path-exists-in-graph) |
@@ -469,6 +473,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0827-making-a-large-island](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1971-find-if-path-exists-in-graph) |
