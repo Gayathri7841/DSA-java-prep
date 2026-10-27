@@ -1,0 +1,26 @@
+class Solution {
+    public String[] createGrid(int m, int n) {
+       String grid[][]=new String[m][n];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(j==0||i==m-1){
+                    grid[i][j]=".";
+                }
+                else{
+                    grid[i][j]="#";
+                }
+            }
+        }
+        String[] res=new String[m];
+        int index=0;
+       for(int i=0;i<m;i++){
+           StringBuilder sb=new StringBuilder();
+            for(int j=0;j<n;j++){
+               sb.append(grid[i][j]);
+            }
+           String s=sb.toString();
+           res[index++]=s;
+        }  
+        return res;
+    }
+}
