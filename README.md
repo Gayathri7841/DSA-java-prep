@@ -94,6 +94,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -462,6 +463,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -496,6 +498,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -556,6 +559,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
