@@ -41,6 +41,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0282-expression-add-operators](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -246,6 +247,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0416-partition-equal-subset-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0542-01-matrix) |
@@ -381,6 +383,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0368-largest-divisible-subset](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
