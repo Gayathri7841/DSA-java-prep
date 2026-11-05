@@ -109,6 +109,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0234-palindrome-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -272,6 +273,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -377,6 +379,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0778-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -392,6 +395,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1710-maximum-units-on-a-truck) |
