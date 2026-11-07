@@ -285,6 +285,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1710-maximum-units-on-a-truck](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1710-maximum-units-on-a-truck) |
 | [1755-closest-subsequence-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1755-closest-subsequence-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1929-concatenation-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -480,6 +481,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
