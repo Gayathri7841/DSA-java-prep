@@ -161,6 +161,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3693-climbing-stairs-ii) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Gayathri7841/DSA-java-prep/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Counting
 |  |
@@ -301,6 +302,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3886-sum-of-sortable-integers) |
