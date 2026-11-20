@@ -163,6 +163,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3693-climbing-stairs-ii) |
@@ -304,6 +305,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
@@ -416,6 +418,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3886-sum-of-sortable-integers) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Gayathri7841/DSA-java-prep/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
