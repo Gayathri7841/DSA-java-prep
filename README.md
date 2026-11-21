@@ -33,6 +33,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -102,6 +103,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -306,6 +308,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3524-find-x-value-of-array-i) |
@@ -354,6 +357,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1631-path-with-minimum-effort](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Matrix
 |  |
 | ------- |
@@ -629,6 +633,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0112-path-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
