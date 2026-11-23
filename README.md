@@ -48,6 +48,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0805-split-array-with-same-average](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1922-count-good-numbers) |
@@ -192,6 +193,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0303-range-sum-query-immutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0307-range-sum-query-mutable) |
 | [0707-design-linked-list](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1352-product-of-the-last-k-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -284,6 +286,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1470-shuffle-the-array) |
@@ -548,6 +551,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [0303-range-sum-query-immutable](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gayathri7841/DSA-java-prep/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -686,4 +690,8 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
