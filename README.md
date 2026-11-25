@@ -35,6 +35,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -322,6 +323,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Gayathri7841/DSA-java-prep/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Bit Manipulation
@@ -408,6 +410,7 @@ I am consistently solving problems to improve problem-solving skills and prepare
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gayathri7841/DSA-java-prep/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3934-smallest-unique-subarray) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Gayathri7841/DSA-java-prep/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Sorting
 |  |
@@ -694,4 +697,16 @@ I am consistently solving problems to improve problem-solving skills and prepare
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Gayathri7841/DSA-java-prep/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Gayathri7841/DSA-java-prep/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
